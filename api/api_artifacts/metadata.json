@@ -1,0 +1,17 @@
+{
+  "model_name": "sentiment_model_taha",
+  "version": 1,
+  "export_date": "2025-10-15 14:55:41",
+  "author": "Taha Bekbachi",
+  "framework": "scikit-learn",
+  "vectorizer": "TF-IDF",
+  "language": "English",
+  "description": "Logistic Regression model for sentiment analysis using TF-IDF and custom text preprocessing",
+  "files": {
+    "model": "api_artifacts\\sentiment_model.joblib",
+    "vectorizer": "api_artifacts\\tfidf_vectorizer.joblib",
+    "emoji_dict": "api_artifacts\\emoji_dict.json",
+    "stopwords": "api_artifacts\\stopwords_list.json",
+    "preprocess_function": "api_artifacts\\preprocess_function.py"
+  }
+}

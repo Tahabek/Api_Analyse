@@ -1,0 +1,14 @@
+{
+  ":)": "smile",
+  ":-)": "smile",
+  ":(": "sad",
+  ":-(": "sad",
+  ":D": "laugh",
+  ":-D": "laugh",
+  ";)": "wink",
+  ":-P": "playful",
+  ":-O": "surprised",
+  ":P": "playful",
+  ":o": "surprised",
+  ":|": "neutral"
+}
